@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Paulo Levi: Desenvolvedor .NET / Full Stack" width="100%">
+  <img src="banner-dotnet.svg" alt="Paulo Levi: Desenvolvedor .NET / Full Stack" width="100%">
 </p>
 
 <p align="center">
